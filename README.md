@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Chandu!  
+# 👋 Hi there, I'm Chandu  
 
-## 🌟 Welcome to My GitHub Profile!  
+## 🌟 Welcome to My GitHub Profile  
 
 - Hi there! I'm a passionate full-stack developer with strong expertise in *React* ⚛, *JavaScript* 🖥, *Python* 🐍, and *Django* 🌐.  
 - I love crafting visually stunning 🎨, responsive 📱, and user-centric applications that blend creativity 🎯 with clean, scalable architecture 🛠.  
